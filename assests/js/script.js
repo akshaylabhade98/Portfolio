@@ -41,7 +41,7 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Portfolio | Pallavi Pandey";
+        document.title = "Portfolio | Akshay Labhade";
         $("#favicon").attr("href","assests/images/favicon.ico");
     }
     else {
